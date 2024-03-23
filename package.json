@@ -1,0 +1,22 @@
+{
+  "name": "sapienteet",
+  "version": "1.0.0",
+  "description": "Reliable web3 subscriptions to eth contracts, includes periodic monitoring of past transactions and application level keep alive checks",
+  "main": "src/subscribe.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KristofferSchuppe/sapienteet.git"
+  },
+  "keywords": [
+    "web3",
+    "magni",
+    "event",
+    "subscription",
+    "eum",
+    "consequatur",
+    "voluptatem"
+  ],
+  "author": "LeathaMurazik",
+  "license": "MIT",
+  "homepage": "https://github.com/KristofferSchuppe/sapienteet.git"
+}
